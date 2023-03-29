@@ -58,6 +58,10 @@ main{
   color: #fff;
 }
 
+.title{
+  margin: 15px 0 5px 0;
+}
+
 footer{
   height: 50px;
   background-color: #aaaaaa;
